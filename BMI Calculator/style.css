@@ -1,0 +1,32 @@
+*{
+    background-color:azure;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: brown;
+}
+.guide{
+    
+    display: flex;
+    justify-content: center;
+    color: rgb(42, 165, 54);
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#btn{
+    margin-left: 104px;
+    padding: 5px;
+    border: 1px solid red;
+    border-radius: 4px;
+    background-color: aqua;
+}
+#results{
+    
+    color: aqua;
+    font-size: 18px;
+    margin-left: 15px;
+}
